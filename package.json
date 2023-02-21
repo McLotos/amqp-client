@@ -1,11 +1,12 @@
 {
-  "name": "amqp-client",
+  "name": "@amqp-client",
   "description": "",
   "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/McLotos/amqp-client.git"
   },
+  "main": "amqp-client.js",
   "author": "McLotos",
   "license": "ISC",
   "homepage": "https://github.com/McLotos/amqp-client",
