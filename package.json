@@ -1,5 +1,5 @@
 {
-  "name": "@amqp-client",
+  "name": "amq-client",
   "description": "",
   "version": "0.1.0",
   "repository": {
